@@ -1,2 +1,2 @@
 # SolidPrinciple
-Solid Principle 
+## 🧱 Single Responsibility Principle (SRP)
