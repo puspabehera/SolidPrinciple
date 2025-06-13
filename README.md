@@ -23,7 +23,8 @@ Email formatting or SMTP configuration might need changes.
 
 👉 One class, multiple reasons to change = SRP violation.
 
- 🏨 The Scenario: A Restaurant Analogy for SRP
+
+🏨 The Scenario: A Restaurant Analogy for SRP
 Imagine a restaurant.
 
 There are:
@@ -46,7 +47,7 @@ That chef will:
 
 🔄 Be hard to replace or train
 
-❌ Code That Violates SRP
+❌ Code That Violates SRP (Analogy in Code)
 csharp
 Copy
 Edit
